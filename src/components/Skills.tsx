@@ -52,14 +52,6 @@ const Skills: React.FC = () => {
         "Contributed to real-time analytics projects using key tools and methodologies"
       ],
       featured: true
-    },
-    {
-      company: "Kadamba Technologies",
-      position: "System Admin",
-      period: "1 month",
-      type: "On-site",
-      achievements: [],
-      featured: false
     }
   ];
 
