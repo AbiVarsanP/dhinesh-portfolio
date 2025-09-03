@@ -1,5 +1,5 @@
 import React from 'react';
-import { Code, Database, Globe, Languages, Briefcase, Star } from 'lucide-react';
+import { Code, Database, Globe, Languages, Briefcase, Star, Hammer } from 'lucide-react';
 
 const Skills: React.FC = () => {
   const skillCategories = [
@@ -39,7 +39,7 @@ const Skills: React.FC = () => {
       ]
     },
     {
-      icon: <Globe size={32} />,
+      icon: <Code size={32} />,
       title: "Technology",
       skills: [
         { name: "Machine Learning", level: "Professional", proficiency: 90 },
@@ -47,7 +47,7 @@ const Skills: React.FC = () => {
       ]
     },
     {
-      icon: <Code size={32} />,
+      icon: <Hammer size={32} />,
       title: "Tools",
       skills: [
         { name: "MS Office", level: "Intermediate", proficiency: 85 },
