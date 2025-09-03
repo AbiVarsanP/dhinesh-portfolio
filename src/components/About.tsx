@@ -40,7 +40,7 @@ const About: React.FC = () => {
               <div className="w-80 h-80 mx-auto lg:mx-0 rounded-full bg-gradient-to-r from-blue-400 to-purple-500 p-1">
                 <div className="w-full h-full rounded-full bg-gray-900 flex items-center justify-center">
                   <img
-                    src="https://images.pexels.com/photos/3785079/pexels-photo-3785079.jpeg?auto=compress&cs=tinysrgb&w=400"
+                    src="/profile.jpg"
                     alt="Profile"
                     className="w-72 h-72 rounded-full object-cover"
                   />
