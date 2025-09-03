@@ -27,8 +27,7 @@ const Skills: React.FC = () => {
       title: "Web Development",
       skills: [
         { name: "HTML/CSS", level: "Beginner", proficiency: 60 },
-        { name: "MERN Stack", level: "Learning", proficiency: 40 },
-        { name: "MS Office", level: "Intermediate", proficiency: 85 }
+        { name: "MERN Stack", level: "Learning", proficiency: 40 }
       ]
     },
     {
@@ -37,6 +36,24 @@ const Skills: React.FC = () => {
       skills: [
         { name: "Tamil", level: "Native", proficiency: 100 },
         { name: "English", level: "Professional", proficiency: 90 }
+      ]
+    },
+    {
+      icon: <Technology size={32} />,
+      title: "Technology",
+      skills: [
+        { name: "Machine Learning", level: "Professional", proficiency: 90 },
+        { name: "Deep Learning", level: "Professional", proficiency: 80 }
+      ]
+    },
+    {
+      icon: <Tools size={32} />,
+      title: "Tools",
+      skills: [
+        { name: "MS Office", level: "Intermediate", proficiency: 85 },
+        { name: "Eclipse", level: "Professional", proficiency: 100 },
+        { name: "Git", level: "Intermediate", proficiency: 80 },
+        { name: "Power BI,", level: "Professional", proficiency: 90 }
       ]
     }
   ];
