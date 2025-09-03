@@ -39,7 +39,7 @@ const Skills: React.FC = () => {
       ]
     },
     {
-      icon: <Technology size={32} />,
+      icon: <Globe size={32} />,
       title: "Technology",
       skills: [
         { name: "Machine Learning", level: "Professional", proficiency: 90 },
@@ -47,7 +47,7 @@ const Skills: React.FC = () => {
       ]
     },
     {
-      icon: <Tools size={32} />,
+      icon: <Code size={32} />,
       title: "Tools",
       skills: [
         { name: "MS Office", level: "Intermediate", proficiency: 85 },
