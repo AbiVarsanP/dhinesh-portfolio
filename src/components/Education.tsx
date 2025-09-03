@@ -7,7 +7,7 @@ const Education: React.FC = () => {
       institution: "K. Ramakrishnan College of Technology, Trichy, India",
       degree: "B.Tech: Artificial Intelligence and Data Science",
       period: "2022 - 2026",
-      score: "CGPA: 7.95/10",
+      score: "CGPA: 7.97/10",
       type: "current"
     },
     {
