@@ -54,13 +54,14 @@ const Skills: React.FC = () => {
       featured: true
     },
     {
-      company: "Oasis Infobytes",
-      position: "Data Analytics Intern",
-      period: "Aug 2024 - Sep 2024",
+      company: "Worisgo Company",
+      position: "Risk Analyst Intern",
+      period: "May 2025 – Aug 2025",
       type: "Remote",
       achievements: [
-        "Gained experience in data cleaning, visualization, and reporting",
-        "Contributed to real-time analytics projects using key tools and methodologies"
+        "Assessed financial risks using data-driven models and statistical techniques.",
+        "Analyzed datasets to identify patterns and mitigation strategies.",
+        "Prepared concise reports to support business decisions."
       ],
       featured: true
     }
