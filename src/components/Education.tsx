@@ -30,6 +30,7 @@ const Education: React.FC = () => {
     { name: "AWS Certified Cloud Practitioner", date: "November 2024", featured: true },
     { name: "Celonis Academic Process Mining Fundamentals", date: "November 2024", featured: true },
     { name: "Database Management Systems (NPTEL)", date: "July 2023 - September 2023", featured: true },
+    { name: "Smart Belt with Auto-adjustment (Patent)", date: "2025", featured: true },
     { name: "AI on Azure", date: "", featured: false },
     { name: "Game Development Using Pygame on GUVI", date: "", featured: false },
     { name: "Refine and Test ML Models on Azure", date: "", featured: false },
