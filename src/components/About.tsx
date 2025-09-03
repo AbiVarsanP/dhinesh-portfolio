@@ -56,7 +56,7 @@ const About: React.FC = () => {
           <div className="space-y-6">
             <div className="prose prose-lg text-gray-300">
               <p className="leading-relaxed">
-                I'm a passionate B.Tech student specializing in <span className="text-blue-400 font-semibold">Artificial Intelligence and Data Science</span> with a CGPA of 7.95. My journey in technology is driven by curiosity and a desire to create meaningful solutions.
+                I'm a passionate B.Tech student specializing in <span className="text-blue-400 font-semibold">Artificial Intelligence and Data Science</span> with a CGPA of 7.97. My journey in technology is driven by curiosity and a desire to create meaningful solutions.
               </p>
               
               <p className="leading-relaxed">
