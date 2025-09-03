@@ -52,6 +52,17 @@ const Skills: React.FC = () => {
         "Contributed to real-time analytics projects using key tools and methodologies"
       ],
       featured: true
+    },
+    {
+      company: "Oasis Infobytes",
+      position: "Data Analytics Intern",
+      period: "Aug 2024 - Sep 2024",
+      type: "Remote",
+      achievements: [
+        "Gained experience in data cleaning, visualization, and reporting",
+        "Contributed to real-time analytics projects using key tools and methodologies"
+      ],
+      featured: true
     }
   ];
 
