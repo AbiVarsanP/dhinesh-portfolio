@@ -6,7 +6,7 @@ const About: React.FC = () => {
     {
       icon: <Target size={24} />,
       title: "Goal-Oriented",
-      description: "B.Tech student with 7.95 CGPA, consistently achieving academic excellence"
+      description: "B.Tech student with 7.97 CGPA, consistently achieving academic excellence"
     },
     {
       icon: <Users size={24} />,
