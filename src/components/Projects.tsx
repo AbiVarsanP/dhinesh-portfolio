@@ -20,8 +20,8 @@ const Projects: React.FC = () => {
       icon: <Shield size={24} />
     },
     {
-      title: "Gas Leakage Detector",
-      description: "Led a team to design a cost-effective gas detection system within a ₹3,500 budget. Features real-time monitoring and alert mechanisms.",
+      title: "Real-Time Vital Sign Monitoring & Alertingr",
+      description: "Led a team to design a Real-Time Detection and Interpretation of Vital Sign Abnormalities for Continuous Remote Patient Monitoring",
       technologies: ["IoT", "Sensors", "Arduino", "Hardware"],
       githubUrl: "#",
       featured: false,
